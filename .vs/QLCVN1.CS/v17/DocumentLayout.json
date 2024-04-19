@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|c:\\users\\admin\\source\\repos\\qlcvn1.cs\\qlcvn1.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\qlcvn1.cs\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B132C403-07E1-4BF9-88A2-B62DE8340CCA}|QLCVN1.CS\\QLCVN1.CS.csproj|solutionrelative:qlcvn1.cs\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Member.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Member.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Member.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:27:45.148Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Report.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Report.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Report.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:28:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Meeting.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Meeting.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Meeting.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Meeting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:28:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Employee.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Employee.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:27:20.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Task.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Task.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Task.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:28:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Project.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Project.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Project.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:26:47.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Program.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Program.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Program.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAYwEwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:23:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\AccountManager.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\AccountManager.cs",
+              "RelativeToolTip": "QLCVN1.CS\\AccountManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:24:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Message.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Message.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Message.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:29:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Account.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\Account.cs",
+              "RelativeToolTip": "QLCVN1.CS\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:25:17.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "QLCVN1.CS\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLCVN1.CS\\QLCVN1.CS\\ProjectManager.cs",
+              "RelativeToolTip": "QLCVN1.CS\\ProjectManager.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwNIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:26:02.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
