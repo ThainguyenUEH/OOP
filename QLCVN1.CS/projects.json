@@ -1,7 +1,7 @@
 [
   {
     "Id": "P1",
-    "Name": "Project Alpha",
+    "Name": "Project Appha S",
     "Target": 10000,
     "StartDate": "2024-05-01T00:00:00",
     "EndDate": "2024-12-01T00:00:00",
@@ -69,12 +69,6 @@
       {
         "Content": "toi la nv001 cua du an 1",
         "DateTimeOfContent": "2024-04-17T23:31:47.5983256+07:00",
-        "ProjectId": "P1",
-        "Fullname": "Nguyễn Văn A"
-      },
-      {
-        "Content": "est",
-        "DateTimeOfContent": "2024-04-19T19:56:53.6511991+07:00",
         "ProjectId": "P1",
         "Fullname": "Nguyễn Văn A"
       }

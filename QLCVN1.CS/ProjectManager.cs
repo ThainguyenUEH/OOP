@@ -354,13 +354,13 @@ namespace QLCVN1.CS
             // Hiển thị thông tin của dự án cần sửa
             Project projectToEdit = projects[index];
             Console.WriteLine($"Thông tin của dự án '{projectToEdit.Name}':");
-            Console.WriteLine($"1. ID: {projectToEdit.Id}");
-            Console.WriteLine($"2. Tên: {projectToEdit.Name}");
-            Console.WriteLine($"3. Mục tiêu: {projectToEdit.Target}");
-            Console.WriteLine($"4. Ngày bắt đầu: {projectToEdit.StartDate}");
-            Console.WriteLine($"5. Ngày kết thúc: {projectToEdit.EndDate}");
-            Console.WriteLine($"6. Mô tả: {projectToEdit.Description}");
-            Console.WriteLine($"7. Trạng thái: {projectToEdit.Status}");
+            //Console.WriteLine($"1. ID: {projectToEdit.Id}");
+            Console.WriteLine($"1. Tên: {projectToEdit.Name}");
+            Console.WriteLine($"2. Mục tiêu: {projectToEdit.Target}");
+            Console.WriteLine($"3. Ngày bắt đầu: {projectToEdit.StartDate}");
+            Console.WriteLine($"4. Ngày kết thúc: {projectToEdit.EndDate}");
+            Console.WriteLine($"5. Mô tả: {projectToEdit.Description}");
+            Console.WriteLine($"6. Trạng thái: {projectToEdit.Status}");
 
             while (true)
             {
@@ -380,15 +380,14 @@ namespace QLCVN1.CS
                 // Cập nhật thông tin của dự án
                 switch (choice)
                 {
+                    //case 1:
+                    //    if (string.IsNullOrWhiteSpace(newInfo))
+                    //    {
+                    //        Console.WriteLine("Không được sửa ID vì ID đã được thiết lập sẵn");
+                    //        continue;
+                    //    }
+                    //    break;
                     case 1:
-                        if (string.IsNullOrWhiteSpace(newInfo))
-                        {
-                            Console.WriteLine("ID không được để trống. Vui lòng nhập lại.");
-                            continue;
-                        }
-                        projectToEdit.Id = newInfo;
-                        break;
-                    case 2:
                         if (string.IsNullOrWhiteSpace(newInfo))
                         {
                             Console.WriteLine("Tên không được để trống. Vui lòng nhập lại.");
@@ -396,7 +395,7 @@ namespace QLCVN1.CS
                         }
                         projectToEdit.Name = newInfo;
                         break;
-                    case 3:
+                    case 2:
                         if (!int.TryParse(newInfo, out int newInfo1))
                         {
                             Console.WriteLine("Mục tiêu phải là một số. Vui lòng nhập lại.");
@@ -404,7 +403,7 @@ namespace QLCVN1.CS
                         }
                         projectToEdit.Target = newInfo1;
                         break;
-                    case 4:
+                    case 3:
                         if (!DateTime.TryParse(newInfo, out DateTime startDate))
                         {
                             Console.WriteLine("Ngày không hợp lệ. Vui lòng nhập lại.");
@@ -412,7 +411,7 @@ namespace QLCVN1.CS
                         }
                         projectToEdit.StartDate = startDate;
                         break;
-                    case 5:
+                    case 4:
                         if (!DateTime.TryParse(newInfo, out DateTime endDate))
                         {
                             Console.WriteLine("Ngày không hợp lệ. Vui lòng nhập lại.");
@@ -420,10 +419,10 @@ namespace QLCVN1.CS
                         }
                         projectToEdit.EndDate = endDate;
                         break;
-                    case 6:
+                    case 5:
                         projectToEdit.Description = newInfo;
                         break;
-                    case 7:
+                    case 6:
                         projectToEdit.Status = newInfo;
                         break;
                     default:

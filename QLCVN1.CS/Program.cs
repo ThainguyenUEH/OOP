@@ -466,7 +466,7 @@ namespace QLCVN1.CS
                                     break;
                             }
 
-                            if (choice2 == 11)
+                            if (choice2 == 12)
                             {
 
                                 // Thoát menu và quay lại bước đăng nhập
