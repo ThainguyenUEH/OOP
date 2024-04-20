@@ -43,10 +43,10 @@ namespace QLCVN1.CS
             if (string.IsNullOrEmpty(text))
                 return text;
 
-            var normalizedString = text.Normalize(System.Text.NormalizationForm.FormD);
-            var stringBuilder = new System.Text.StringBuilder();
+            string normalizedString = text.Normalize(System.Text.NormalizationForm.FormD);
+            System.Text.StringBuilder stringBuilder = new System.Text.StringBuilder();
 
-            foreach (var c in normalizedString)
+            foreach (Char c in normalizedString)
             {
                 if (System.Globalization.CharUnicodeInfo.GetUnicodeCategory(c) != System.Globalization.UnicodeCategory.NonSpacingMark)
                 {
@@ -618,7 +618,7 @@ namespace QLCVN1.CS
                                     }
 
                                     // Duyệt qua từng dự án mà nhân viên tham gia
-                                    foreach (var project in projectsForCurrentAccount)
+                                    foreach (Project project in projectsForCurrentAccount)
                                     {
                                         report.GenerateTaskReportForUser(project, currentAccount);
                                     }

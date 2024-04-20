@@ -25,7 +25,7 @@ namespace QLCVN1.CS
                 string fullPath = Path.Combine(directory, fileName);
 
                 // Tạo cài đặt JSON
-                var settings = new JsonSerializerSettings
+                JsonSerializerSettings settings = new JsonSerializerSettings
                 {
                     Formatting = Formatting.Indented,
                     ReferenceLoopHandling = ReferenceLoopHandling.Ignore
